@@ -1,10 +1,12 @@
 # lecture-machine_learning
 
-TensorFlow tutorial
+http://rml.kau.ac.kr
+
 
 ADVISOR: prof. young sik choi
 
 TA: guem buel hwang
+
 
 ⓒ 2017. (rml.kau.ac.kr) all rights reserved.
 
